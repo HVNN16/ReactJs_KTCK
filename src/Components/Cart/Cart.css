@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+.cart-container {
+    /* margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px; */
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif */
+  }
+  
+  .cart-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+  }
+  
+  .cart-item-details {
+    flex-grow: 1;
+  }
+  
+  .cart-item-name {
+    font-weight: bold;
+  }
+  
+  .cart-item-remove-btn {
+    background-color: #ff6347;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cart-item-remove-btn:hover {
+    background-color: #d9534f;
+  }
+
+.cart-total {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cart-total-text {
+    font-weight: bold;
+  }
+  
+  .cart-checkout-btn {
+    background-color: #5bc0de;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cart-checkout-btn:hover {
+    background-color: #31b0d5;
+  }
+  .cart-heading{
+    text-align:  center;
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+  }
+  
+  

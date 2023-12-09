@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "category": "pasta",
+      "name": "Pasta",
+      "price": 10.99,
+      "des": "Delicious pasta to satisfy your cravings."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 12.75,
+      "des": "Savory shawarma wraps packed with flavor."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 6.99,
+      "des": "Juicy burgers that will make your taste buds dance."
+    },
+    {
+      "category": "pizzas",
+      "name": "Pizza",
+      "price": 14.5,
+      "des": "Irresistible pizza slices loaded with your favorite toppings."
+    },
+    {
+      "category": "deserts",
+      "name": "Sushi",
+      "price": 18.25,
+      "des": "Exquisite sushi rolls crafted for a delightful experience."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 8.49,
+      "des": "Fresh and nutritious salad for a healthy meal."
+    },
+    {
+      "category": "deserts",
+      "name": "Ice Cream",
+      "price": 5.75,
+      "des": "Creamy ice cream in a variety of flavors to indulge in."
+    },
+    {
+      "category": "salads",
+      "name": "Salads",
+      "price": 3.99,
+      "des": "Refreshing smoothies blended to perfection for a burst of energy."
+    },
+    {
+      "category": "pasta",
+      "name": "Pasta",
+      "price": 10.99,
+      "des": "Delicious pasta to satisfy your cravings."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 12.75,
+      "des": "Savory shawarma wraps packed with flavor."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 6.99,
+      "des": "Juicy burgers that will make your taste buds dance."
+    },
+    {
+      "category": "pizzas",
+      "name": "Pizza",
+      "price": 14.5,
+      "des": "Irresistible pizza slices loaded with your favorite toppings."
+    },
+    {
+      "category": "deserts",
+      "name": "Sushi",
+      "price": 18.25,
+      "des": "Exquisite sushi rolls crafted for a delightful experience."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 8.49,
+      "des": "Fresh and nutritious salad for a healthy meal."
+    },
+    {
+      "category": "drinks",
+      "name": "Ice Cream",
+      "price": 5.75,
+      "des": "Creamy ice cream in a variety of flavors to indulge in."
+    },
+    {
+      "category": "salads",
+      "name": "Salads",
+      "price": 3.99,
+      "des": "Refreshing smoothies blended to perfection for a burst of energy."
+    },
+    {
+      "category": "pasta",
+      "name": "Pasta",
+      "price": 10.99,
+      "des": "Delicious pasta to satisfy your cravings."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 12.75,
+      "des": "Savory shawarma wraps packed with flavor."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 6.99,
+      "des": "Juicy burgers that will make your taste buds dance."
+    },
+    {
+      "category": "pizzas",
+      "name": "Pizza",
+      "price": 14.5,
+      "des": "Irresistible pizza slices loaded with your favorite toppings."
+    },
+    {
+      "category": "deserts",
+      "name": "Sushi",
+      "price": 18.25,
+      "des": "Exquisite sushi rolls crafted for a delightful experience."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 8.49,
+      "des": "Fresh and nutritious salad for a healthy meal."
+    },
+    {
+      "category": "deserts",
+      "name": "Ice Cream",
+      "price": 5.75,
+      "des": "Creamy ice cream in a variety of flavors to indulge in."
+    },
+    {
+      "category": "salads",
+      "name": "Salads",
+      "price": 3.99,
+      "des": "Refreshing smoothies blended to perfection for a burst of energy."
+    },
+    {
+      "category": "pasta",
+      "name": "Pasta",
+      "price": 10.99,
+      "des": "Delicious pasta to satisfy your cravings."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 12.75,
+      "des": "Savory shawarma wraps packed with flavor."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 6.99,
+      "des": "Juicy burgers that will make your taste buds dance."
+    },
+    {
+      "category": "pizzas",
+      "name": "Pizza",
+      "price": 14.5,
+      "des": "Irresistible pizza slices loaded with your favorite toppings."
+    },
+    {
+      "category": "deserts",
+      "name": "Sushi",
+      "price": 18.25,
+      "des": "Exquisite sushi rolls crafted for a delightful experience."
+    },
+    {
+      "category": "burgers",
+      "name": "Burger",
+      "price": 8.49,
+      "des": "Fresh and nutritious salad for a healthy meal."
+    },
+    {
+      "category": "drinks",
+      "name": "Ice Cream",
+      "price": 5.75,
+      "des": "Creamy ice cream in a variety of flavors to indulge in."
+    },
+    {
+      "category": "salads",
+      "name": "Salads",
+      "price": 3.99,
+      "des": "Refreshing smoothies blended to perfection for a burst of energy."
+    }
+  ],
+  "featured": [
+    {
+      "category": "salad",
+      "name": "Salads",
+      "price": 12.75,
+      "des": "Savory shawarma"
+    },
+    {
+      "category": "deserts",
+      "name": "Smoothi",
+      "price": 12.75,
+      "des": "Savory shawarma"
+    },
+    {
+      "category": "pizzas",
+      "name": "Shawarms",
+      "price": 12.75,
+      "des": "Savory shawarma"
+    },
+    {
+      "category": "burgers",
+      "name": "Salad Pesto",
+      "price": 12.75,
+      "des": "Savory shawarma"
+    }
+  ],
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "ff@gmail.ccc",
+      "name": "Huỳnh Văn Nghĩa",
+      "password": "dff",
+      "email": "nghiahvn@gmail.com",
+      "phone": "0372092544",
+      "country": "india",
+      "address": "HVN",
+      "gender": "male"
+    },
+    {
+      "id": "111",
+      "name": "1111",
+      "password": "111",
+      "email": "hvn@gmail.com",
+      "phone": "123456789",
+      "country": "india",
+      "address": "Dn",
+      "gender": "male"
+    },
+    {
+      "id": "sang1",
+      "name": "dfghjkl",
+      "password": "dff45",
+      "email": "hvne@gmail.com",
+      "phone": "123",
+      "country": "thailand",
+      "address": "dfghjk",
+      "gender": "male"
+    },
+    {
+      "id": "nguyet",
+      "name": "nguyet",
+      "password": "123",
+      "email": "nguyet@gmail.com",
+      "phone": "123456",
+      "country": "vietnam",
+      "address": "nghịaasnajknsasj",
+      "gender": "female"
+    },
+    {
+      "id": "nguyet1",
+      "name": "nguyet1",
+      "password": "dff45",
+      "email": "nguyet@gmail.com",
+      "phone": "0123456789",
+      "country": "thailand",
+      "address": "dfghjk",
+      "gender": "female"
+    }
+  ],
+  "booking": [
+    {
+      "name": "nghia",
+      "email": "hvn@gmail.com",
+      "numberOfPersons": "3",
+      "chosenDate": "22/08",
+      "id": 1
+    },
+    {
+      "name": "hvn",
+      "email": "hvne@gmail.com",
+      "numberOfPersons": "34",
+      "chosenDate": "22/7/12222",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "numberOfPersons": "",
+      "chosenDate": "",
+      "id": 3
+    },
+    {
+      "name": "nghia",
+      "email": "123@gmail.com",
+      "numberOfPersons": "",
+      "chosenDate": "",
+      "id": 4
+    }
+  ]
+}
